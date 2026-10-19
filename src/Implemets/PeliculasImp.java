@@ -27,6 +27,8 @@ public class PeliculasImp implements PeliculasMetodos {
 			}
 		}
 		
+		//SE AGREGO UN NUEVO COMENTARIO EN IMPLEMENTS
+		
 
 			listaPeliculas.add(pelicula);
 			System.out.println("Se guardo la pelicula");
